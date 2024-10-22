@@ -1,0 +1,8 @@
+Libraries and Tools:
+
+Python: A popular language for data science and machine learning.
+Pandas: For data manipulation and analysis.
+NumPy: For numerical computations.
+Scikit-learn: A comprehensive machine learning library.
+Matplotlib/Seaborn: For data visualization.
+Jupyter Notebook: For interactive development and analysis.
